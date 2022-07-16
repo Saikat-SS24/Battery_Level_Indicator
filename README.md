@@ -12,4 +12,6 @@
 
 <h1 align="center">👨‍💻 Demo 👨‍💻</h1>
 
+<img src="img/img1.png" align="left" Width="400">  <img src="img/img2.png" align="right" Width="400">
+
 
